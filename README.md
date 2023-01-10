@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custodio12&label=Profile%20views&color=0e75b6&style=flat" alt="custodio12" /> </p>
 
-- 🌱 Atualmente estou aperfeiçoando meus conhecimentos no pacote Hadoop **com os cursos da Data Science Academy e Semantix Academy**
+- 🌱 Atualmente estou atuando como Engenheiro de dados Trainee na **BlueShift Brasil**
 
-- 📝 Atualmente desenvolvo minhas habilidades com a Semantix Academy [https://semantix.ai/](https://semantix.ai/)
+- 📝 Atualmente desenvolvo minhas habilidades com a Data Science Academy [https://www.datascienceacademy.com.br/start](https://www.datascienceacademy.com.br/start)
 
-- 💬 Pergunte me sobre **Ecossistema Hadoop, SQL SERVER**
+- 💬 Pergunte me sobre **Microsoft Azure, Python, SQL, Docker, Kubernetes**
 
 - 📫 Meu contato: **kelvincustodio12@gmail.com**
 
@@ -29,7 +29,7 @@
 
 <!---
 - 👋 Oi, meu nome é Kelvin Custodio
-- 👀 E tenho interesse em atuar na área de engenhaira de dados ...
+- 👀 E tenho interesse em crescer na área de engenhaira de dados ...
 - 🌱 Estou me especializando na área de engenharia de dados ...
 - 💞️ sou um profissional com experiência com equipes ágeis, e posso agregar ao seu time ...
 - 📫 Meu contato: kelvincustodio12@gmail.com...
