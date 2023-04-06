@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu me chamo Kelvin Custodio</h1>
-<h3 align="center">Engenheiro de dados</h3>
+<h3 align="center">Engenheiro de Dados | Analista de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custodio12&label=Profile%20views&color=0e75b6&style=flat" alt="custodio12" /> </p>
 
