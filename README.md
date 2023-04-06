@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou atuando como Engenheiro de dados Trainee na **BlueShift Brasil**
 
-- 📝 Atualmente desenvolvo minhas habilidades com a Data Science Academy [https://www.datascienceacademy.com.br/start](https://www.datascienceacademy.com.br)
+- 📝 Atualmente desenvolvo minhas habilidades com a Data Science Academy [https://www.datascienceacademy.com.br](https://www.datascienceacademy.com.br)
 
 - 💬 Pergunte me sobre **Microsoft Azure, Python, SQL, Docker, Kubernetes**
 
