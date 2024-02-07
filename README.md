@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu me chamo Kelvin Custodio</h1>
-<h3 align="center"> Engenheiro de dados Jr</h3>
+<h3 align="center"> Engenheiro de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custodio12&label=Profile%20views&color=0e75b6&style=flat" alt="custodio12" /> </p>
 
-- 🌱 Atualmente estou atuando como Engenheiro de dados Jr. na **BlueShift Brasil**
+- 🌱 Atualmente estou atuando como Engenheiro de dados na **Equal BI**
 
 - 📝 Atualmente desenvolvo minhas habilidades com a Data Science Academy [https://www.datascienceacademy.com.br](https://www.datascienceacademy.com.br)
 
