@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custodio12&label=Profile%20views&color=0e75b6&style=flat" alt="custodio12" /> </p>
 
-- 🌱 Atualmente estou atuando como Engenheiro de dados na **Equal BI**
+- 🌱 Atualmente estou atuando como Analytics Engineer na **Blip**
 
 - 📝 Atualmente desenvolvo minhas habilidades com a Data Science Academy [https://www.datascienceacademy.com.br](https://www.datascienceacademy.com.br)
 
